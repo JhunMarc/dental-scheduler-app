@@ -10,6 +10,7 @@ A full-stack dental appointment scheduling system built with React, Node.js, Doc
 
 ### Demo  
 ![Record](attach/record.mp4)
+[https://drive.google.com/file/d/1gIQlNJQlpLwDwRMymxGv7rI4QcA8hdBF/view?usp=sharing](https://drive.google.com/file/d/1gIQlNJQlpLwDwRMymxGv7rI4QcA8hdBF/view?usp=sharing)
 
 ---
 
@@ -40,7 +41,8 @@ A full-stack dental appointment scheduling system built with React, Node.js, Doc
          ▼                                                 ▼
 ┌─────────────────────┐                        ┌──────────────────────────────┐
 │   S3 Static Bucket  │                        │   AWS Load Balancer (ALB)    │
-│ dental-frontend     │  ← serves index.html   │ (via AWS Load Balancer Ctrl) │  ← ongoing fixing ( got bugs in free tier of aws)
+│ dental-frontend     │  ← serves index.html   │ (via AWS Load Balancer Ctrl) │
+│                     │                        │   ongoing encoutered bugs    │
 └─────────────────────┘                        └─────────────┬────────────────┘
                                                              ▼
                                                 ┌────────────────────────┐
