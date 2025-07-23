@@ -8,8 +8,8 @@ A full-stack dental appointment scheduling system built with React, Node.js, Doc
 ![Home Page](attach/home.png)
 
 
-### Recording  
-![Home Page](attach/record.mp4)
+### Demo  
+![Record](attach/record.mp4)
 
 ---
 
